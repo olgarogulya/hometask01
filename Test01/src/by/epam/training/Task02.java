@@ -40,7 +40,7 @@ for(int a = 0; a < line.length; a++) {
 }
 	System.out.println("-------");
 	System.out.println("|" + sum + "|");
-	
+	sum = 0;
 }
 
 }
